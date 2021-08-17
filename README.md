@@ -6,7 +6,7 @@ ARM assembly driving game coded in C
 - All in one file due to CPUlator constraints
 - Final Project for ECE243 - Computer Organization
 - To translate into the machine code: https://cpulator.01xz.net/?sys=arm-de1soc
-- To play: Load the .c file into CPUlator, key inputs go into "PS/2 keyboard" (Address: FF200100)
+- To play: Load the freewayfrenzy.c file into CPUlator, key inputs go into "PS/2 keyboard" (Address: FF200100)
 - Collaborator: Tenzin Mahabir (https://github.com/tmahabir)
 
 ## How to play
